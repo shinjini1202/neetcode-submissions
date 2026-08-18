@@ -7,6 +7,5 @@ public:
             st.insert(num);
         }
         return false;
-        
     }
 };
